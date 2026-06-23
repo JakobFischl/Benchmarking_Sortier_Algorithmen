@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-PR7RISV
+Date of Test: 2026-06-23 21:30:26
+Bubble Sort Time: 14.043642 seconds
+Quick Sort Time: 0.026244 seconds
+
